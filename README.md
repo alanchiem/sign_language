@@ -1,1 +1,1 @@
-# sign_language
+# Multi-Class Classifier: Sign Language
